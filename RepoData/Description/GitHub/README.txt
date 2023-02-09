@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+🌳️🌐️🐚️ The OS mode Windows 11 shell for Bliss Browser lets Bliss run as an operating system environment on top of Windows 11 for as much time as you choose.
